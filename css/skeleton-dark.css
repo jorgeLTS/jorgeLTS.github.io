@@ -77,12 +77,12 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 100%; }
 body {
-  background-color: #292929;
+  background-color: #FFFFFF;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF; }
+  color: #000000; }
 
 
 /* Typography
@@ -167,4 +167,3 @@ hr {
   margin-bottom: 3.5rem;
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
-
